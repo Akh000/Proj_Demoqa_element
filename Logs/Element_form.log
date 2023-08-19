@@ -1,0 +1,44 @@
+2023-08-19 15:25:48,161 : INFO : Test_Element : test_element_002 : 23 : Opening Browser
+2023-08-19 15:25:50,163 : INFO : Test_Element : test_element_002 : 26 : Click on Element Button
+2023-08-19 15:25:50,323 : INFO : Test_Element : test_element_002 : 28 : Click on text box button
+2023-08-19 15:25:50,434 : INFO : Test_Element : test_element_002 : 30 : Enter the Fullname
+2023-08-19 15:25:50,594 : INFO : Test_Element : test_element_002 : 32 : Entering Email Address
+2023-08-19 15:25:50,860 : INFO : Test_Element : test_element_002 : 34 : Entering Current Addresss
+2023-08-19 15:25:51,376 : INFO : Test_Element : test_element_002 : 36 : Entering Permanent Address
+2023-08-19 15:25:51,566 : INFO : Test_Element : test_element_002 : 38 : Scrolling window downside
+2023-08-19 15:25:51,572 : INFO : Test_Element : test_element_002 : 40 : Click on Submit Button
+2023-08-19 15:25:51,722 : INFO : Test_Element : test_element_002 : 42 : Return The values In text box
+2023-08-19 15:27:38,996 : INFO : Test_Element : test_element_002 : 23 : Opening Browser
+2023-08-19 15:27:40,997 : INFO : Test_Element : test_element_002 : 26 : Click on Element Button
+2023-08-19 15:27:41,181 : INFO : Test_Element : test_element_002 : 28 : Click on text box button
+2023-08-19 15:27:41,296 : INFO : Test_Element : test_element_002 : 30 : Enter the Fullname
+2023-08-19 15:27:41,448 : INFO : Test_Element : test_element_002 : 32 : Entering Email Address
+2023-08-19 15:27:41,957 : INFO : Test_Element : test_element_002 : 34 : Entering Current Addresss
+2023-08-19 15:27:42,207 : INFO : Test_Element : test_element_002 : 36 : Entering Permanent Address
+2023-08-19 15:27:42,383 : INFO : Test_Element : test_element_002 : 38 : Scrolling window downside
+2023-08-19 15:27:42,391 : INFO : Test_Element : test_element_002 : 40 : Click on Submit Button
+2023-08-19 15:27:42,489 : INFO : Test_Element : test_element_002 : 42 : Return The values In text box
+
+2023-08-19 15:29:30,925 : INFO : Test_Element : test_element_002 : 23 : Opening Browser
+2023-08-19 15:29:32,933 : INFO : Test_Element : test_element_002 : 26 : Click on Element Button
+2023-08-19 15:29:33,083 : INFO : Test_Element : test_element_002 : 28 : Click on text box button
+2023-08-19 15:29:33,195 : INFO : Test_Element : test_element_002 : 30 : Enter the Fullname
+2023-08-19 15:29:33,339 : INFO : Test_Element : test_element_002 : 32 : Entering Email Address
+2023-08-19 15:29:33,794 : INFO : Test_Element : test_element_002 : 34 : Entering Current Addresss
+2023-08-19 15:29:34,082 : INFO : Test_Element : test_element_002 : 36 : Entering Permanent Address
+2023-08-19 15:29:34,273 : INFO : Test_Element : test_element_002 : 38 : Scrolling window downside
+2023-08-19 15:29:34,297 : INFO : Test_Element : test_element_002 : 40 : Click on Submit Button
+2023-08-19 15:29:34,395 : INFO : Test_Element : test_element_002 : 42 : Return The values In text box
+
+2023-08-19 15:31:48,783 : INFO : Test_Element : test_element_001 : 12 : Opening Browser
+2023-08-19 15:31:57,634 : INFO : Test_Element : test_element_002 : 23 : Opening Browser
+2023-08-19 15:31:59,641 : INFO : Test_Element : test_element_002 : 26 : Click on Element Button
+2023-08-19 15:31:59,827 : INFO : Test_Element : test_element_002 : 28 : Click on text box button
+2023-08-19 15:31:59,931 : INFO : Test_Element : test_element_002 : 30 : Enter the Fullname
+2023-08-19 15:32:00,083 : INFO : Test_Element : test_element_002 : 32 : Entering Email Address
+2023-08-19 15:32:00,283 : INFO : Test_Element : test_element_002 : 34 : Entering Current Addresss
+2023-08-19 15:32:00,802 : INFO : Test_Element : test_element_002 : 36 : Entering Permanent Address
+2023-08-19 15:32:01,119 : INFO : Test_Element : test_element_002 : 38 : Scrolling window downside
+2023-08-19 15:32:01,127 : INFO : Test_Element : test_element_002 : 40 : Click on Submit Button
+2023-08-19 15:32:01,231 : INFO : Test_Element : test_element_002 : 42 : Return The values In text box
+

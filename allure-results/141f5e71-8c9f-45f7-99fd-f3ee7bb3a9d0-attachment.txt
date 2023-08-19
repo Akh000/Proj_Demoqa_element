@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_Element:test_element.py:23 Opening Browser
+[32mINFO    [0m Test_Element:test_element.py:26 Click on Element Button
+[32mINFO    [0m Test_Element:test_element.py:28 Click on text box button
+[32mINFO    [0m Test_Element:test_element.py:30 Enter the Fullname
+[32mINFO    [0m Test_Element:test_element.py:32 Entering Email Address
+[32mINFO    [0m Test_Element:test_element.py:34 Entering Current Addresss
+[32mINFO    [0m Test_Element:test_element.py:36 Entering Permanent Address
+[32mINFO    [0m Test_Element:test_element.py:38 Scrolling window downside
+[32mINFO    [0m Test_Element:test_element.py:40 Click on Submit Button
+[32mINFO    [0m Test_Element:test_element.py:42 Return The values In text box
